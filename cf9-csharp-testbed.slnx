@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Kilometers/Kilometers.csproj" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
+  <Project Path="RentACar/RentACar.csproj" Id="87bd1f36-f918-4b28-b444-be5820838a87" />
 </Solution>
