@@ -3,4 +3,5 @@
   <Project Path="PayDay/PayDay.csproj" Id="e68ef80e-5377-424f-b139-e80891e14580" />
   <Project Path="ProductsVat/ProductsVat.csproj" />
   <Project Path="RentACar/RentACar.csproj" Id="87bd1f36-f918-4b28-b444-be5820838a87" />
+  <Project Path="TrainTravel/TrainTravel.csproj" Id="d14328b7-0d12-4f99-99d9-7b77d55991dc" />
 </Solution>
